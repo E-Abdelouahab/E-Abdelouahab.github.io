@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/PortfolioMe/static/css/main.3fb9ae7f.css",
+    "main.js": "/PortfolioMe/static/js/main.5af99af3.js",
+    "static/media/arrayDestruct,.PNG": "/PortfolioMe/static/media/arrayDestruct,.2e4a1f92695c6a8aea62.PNG",
+    "static/media/reactSmooth.PNG": "/PortfolioMe/static/media/reactSmooth.61253513640f2fec8b3f.PNG",
+    "static/media/navbar.PNG": "/PortfolioMe/static/media/navbar.8f676b9a6ae3e0d23036.PNG",
+    "static/media/reactParallax.PNG": "/PortfolioMe/static/media/reactParallax.1a2a4d5a7943c0d77cbd.PNG",
+    "static/media/installNode.PNG": "/PortfolioMe/static/media/installNode.dd9b63c8161a59235dd8.PNG",
+    "static/media/heroImage.png": "/PortfolioMe/static/media/heroImage.89e7ce5b15eebb20d424.png",
+    "static/media/reactWeather.PNG": "/PortfolioMe/static/media/reactWeather.06ce89d5c67d9934489d.PNG",
+    "static/media/Laravel.png": "/PortfolioMe/static/media/Laravel.f8d2fc7b9b81acfbb511.png",
+    "static/media/react.png": "/PortfolioMe/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/github.png": "/PortfolioMe/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/html.png": "/PortfolioMe/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/PortfolioMe/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/PortfolioMe/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/Nodejs.png": "/PortfolioMe/static/media/Nodejs.ebe7967b4e68aac84ac6.png",
+    "static/media/javascript.png": "/PortfolioMe/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "static/media/Angular.png": "/PortfolioMe/static/media/Angular.8535778ab993f444ea70.png",
+    "index.html": "/PortfolioMe/index.html",
+    "main.3fb9ae7f.css.map": "/PortfolioMe/static/css/main.3fb9ae7f.css.map",
+    "main.5af99af3.js.map": "/PortfolioMe/static/js/main.5af99af3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3fb9ae7f.css",
+    "static/js/main.5af99af3.js"
+  ]
+}
